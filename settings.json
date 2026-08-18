@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Cousins-SBMM.aternos.me:30831",
+    "ip": "Cousins-SBMM.aternos.me",
     "port": 30831,
     "version": "1.21.1"
   },
